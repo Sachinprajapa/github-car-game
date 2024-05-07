@@ -1,0 +1,28 @@
+#back{
+    background: url(./AdobeStock_274477936_Preview.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 550px;
+}
+#road{
+    background: url(./19180.jpg);
+    background-size: auto;
+
+}
+#img{
+    width:10%;
+    margin-left: 3%;
+   
+}
+#btn{
+background-color: gold;
+margin-top: -5%;
+width: auto;
+}
+#dbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
